@@ -10,6 +10,8 @@ tags:
   - center
   - right
 ---
+![tuftaustyö](/static/img/img_1994-2.jpg)
+
 # This is a Heading h1
 
 ## This is a Heading h2
